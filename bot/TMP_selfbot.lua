@@ -225,7 +225,7 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {PutYourID(BOTID),tonumber(our_id)},--Sudo users
+    sudo_users = {204285160,186874931,126477037},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
@@ -234,11 +234,6 @@ An advance Administration bot based on yagop/telegram-bot
 https://github.com/SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
 
 Special thanks to:
 Juan Potato
@@ -247,8 +242,8 @@ Topkecleon
 Vamptacus
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+English: @miss_85
+Persian: @miss_85
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -323,7 +318,7 @@ This command will send text to [group_id]
 
 ]],
     help_text = [[
-Commands list :
+Commands list 85 bot ♥ :
 
 !kick [username|id]
 You can also do it by reply
@@ -514,38 +509,3 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
-
-
-
-
---  -_-_-_-_-_-_-_-_-_-   ||-_-_-_-_-_   ||             ||-_-_-_-_-_
---           ||           ||             ||             ||
---           ||           ||             ||             ||
---           ||           ||             ||             ||
---           ||           ||-_-_-_-_-_   ||             ||-_-_-_-_-_
---           ||           ||             ||             ||
---           ||           ||             ||             ||
---           ||           ||             ||             ||
---           ||           ||-_-_-_-_-_   ||-_-_-_-_-_   ||-_-_-_-_-_
---
---
---                               /\                              /\             /-_-_-_-_-_    ||-_-_-_-_-_   ||-_-_-_-_-_
---  ||\\            //||        //\\        ||      //||        //\\           //              ||             ||         //
---  || \\          // ||       //  \\       ||     // ||       //  \\         //               ||             ||       //
---  ||  \\        //  ||      //    \\      ||    //  ||      //    \\       ||                ||             ||    //
---  ||   \\      //   ||     //______\\     ||   //   ||     //______\\      ||      -_-_-_-   ||-_-_-_-_-_   || //
---  ||    \\    //    ||    //        \\    ||  //    ||    //        \\     ||           ||   ||             ||  \\ 
---  ||     \\  //     ||   //          \\   || //     ||   //          \\     \\          ||   ||             ||     \\
---  ||      \\//      ||  //            \\  ||//      ||  //            \\     \\-_-_-_-_-||   ||-_-_-_-_-_   ||        \\
---
---
---  ||-_-_-_-    ||           ||           ||               //-_-_-_-_-_-
---  ||     ||    ||           ||           ||              //
---  ||_-_-_||    ||           ||           ||             //
---  ||           ||           ||           ||             \\
---  ||           ||           \\           //              \\
---  ||           ||            \\         //               //
---  ||           ||-_-_-_-_     \\-_-_-_-//    -_-_-_-_-_-//
---
---By @ali_ghoghnoos
---@telemanager_ch
